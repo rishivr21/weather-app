@@ -1,16 +1,49 @@
-# React + Vite
+🌦️ WEATHERLENS PRO
+Developed by Rishikant Verma
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🚀 Live Project
 
-Currently, two official plugins are available:
+🔗 Check it out here:
+👉 https://rishivr21.github.io/weather-app/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+✨ Core Features
 
-## React Compiler
+🌍 Real-Time Weather Data
+Fetches live meteorological statistics using the OpenWeatherMap API.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+🎨 Dynamic Visuals
+Large-font, clean UI with weather icons that adapt to conditions such as
+Clear, Cloudy, Rain, and Snow.
 
-## Expanding the ESLint configuration
+📊 Comprehensive Metrics
+Displays:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🌡️ Temperature (°C)
+
+💧 Humidity (%)
+
+🌬️ Wind Speed (km/h)
+
+🔍 Smart Search
+Fast city lookup with Enter key support for better user experience.
+
+🛠️ Technical Stack
+
+Frontend: React.js (Hooks & Functional Components)
+
+Build Tool: Vite
+
+API: OpenWeatherMap API (v2.5)
+
+Styling: CSS3, Custom Gradients, Flexbox
+
+Security: .env environment variables for API key protection
+
+💡 Technical Highlights
+
+“During this project, I successfully implemented environment variable injection during the build process and configured a custom base path to ensure seamless routing and deployment on GitHub Pages.”
+
+
+<img width="579" height="690" alt="Screenshot 2026-02-03 155900" src="https://github.com/user-attachments/assets/32ad4179-a806-4a78-afe5-5b3b6a928ad7" />
+
+
